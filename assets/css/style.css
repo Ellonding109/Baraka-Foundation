@@ -9803,7 +9803,7 @@ section.faq-section {
   border-radius: 10px;
   background-image: -moz-linear-gradient(
     0deg,
-    rgb(255, 172, 0) 0%,
+    rgb(255, 172, 0) 0%, 
     rgba(255, 172, 0, 0) 100%
   );
   background-image: -webkit-linear-gradient(
